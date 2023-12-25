@@ -3,9 +3,9 @@
 > 
  ![image](https://user-images.githubusercontent.com/17109060/32149040-04f3125c-bd25-11e7-8003-66fd29bc18d4.png)
 
-## Table of contents
+## Conteúdo
 
-- [Funcionalidades especificas](#funcionalidades-especificas)
+- [Funcionalidades específicas](#funcionalidades-específicas)
 - [Tecnologias empregadas](#funcionalidades-especificas)
 - [Tecnologias empregadas](#tecnologias-empregadas)
 - [Instalação](#instalação)
@@ -16,7 +16,7 @@
 - [Contributing](#contributing)
   
 
-## 🧰Funcionalidades especificas
+## 🧰Funcionalidades específicas
 [(Back to top)](#table-of-contents)
 - Criação, listagem, atualização e exclusão de tarefas com os seguintes campos: título, descrição, data de vencimento.
 - Conclusão de uma tarefa salvando a data/hora do encerramento.
