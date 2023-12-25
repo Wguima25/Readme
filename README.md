@@ -6,7 +6,6 @@
 ## Conteúdo
 
 - [Funcionalidades específicas](#funcionalidades-específicas)
-- [Tecnologias empregadas](#funcionalidades-especificas)
 - [Tecnologias empregadas](#tecnologias-empregadas)
 - [Instalação](#instalação)
 - [Exemplo de Uso](#exemplo-de-uso)
@@ -17,7 +16,7 @@
   
 
 ## 🧰Funcionalidades específicas
-[(Back to top)](#table-of-contents)
+[(Back to top)](#Conteúdo)
 - Criação, listagem, atualização e exclusão de tarefas com os seguintes campos: título, descrição, data de vencimento.
 - Conclusão de uma tarefa salvando a data/hora do encerramento.
 - Registro das horas trabalhadas em uma tarefa, incluindo a data de realização, quantidade de horas e um comentário. 
