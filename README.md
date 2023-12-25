@@ -3,7 +3,7 @@
 > 
  ![image](https://user-images.githubusercontent.com/17109060/32149040-04f3125c-bd25-11e7-8003-66fd29bc18d4.png)
 
-## Conteúdo
+## Índice
 
 - [Funcionalidades específicas](#funcionalidades-específicas)
 - [Tecnologias empregadas](#tecnologias-empregadas)
@@ -16,7 +16,7 @@
   
 
 ## 🧰Funcionalidades específicas
-[(Back to top)](#Conteúdo)
+[(Back to top)](#Índice)
 - Criação, listagem, atualização e exclusão de tarefas com os seguintes campos: título, descrição, data de vencimento.
 - Conclusão de uma tarefa salvando a data/hora do encerramento.
 - Registro das horas trabalhadas em uma tarefa, incluindo a data de realização, quantidade de horas e um comentário. 
@@ -24,13 +24,13 @@
 - Geração de gráfico exibindo a quantidade de tarefas concluídas por dia.
 
 ## 🚀Tecnologias empregadas
-[(Back to top)](#table-of-contents)
+[(Back to top)](#Índice)
 -  [NestJS](https://nestjs.com/) - Na construção na API REST.
 - [TypeORM](https://typeorm.io/) - Na integração com banco de dados PostgreSQL.
 - [Angular14](https://angular.io/) e [Angular Material](https://material.angular.io/) - Na construção da interface de usuário.
 
 ## ♟Instalação
-[(Back to top)](#table-of-contents)
+[(Back to top)](#Índice)
 OS X & Linux:
 
 ```sh
@@ -44,7 +44,7 @@ edit autoexec.bat
 ```
 
 ## 💡Exemplo de uso
-[(Back to top)](#table-of-contents)
+[(Back to top)](#Índice)
 A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
 
 _For more examples and usage, please refer to the [Wiki][wiki]._
@@ -56,7 +56,7 @@ _For more examples and usage, please refer to the [Wiki][wiki]._
 </picture>
 
 ## Development setup
-[(Back to top)](#table-of-contents)
+[[(Back to top)](#Índice)
 Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
 
 ```sh
@@ -65,7 +65,7 @@ npm test
 ```
 
 ## Release History
-[(Back to top)](#table-of-contents)
+[(Back to top)](#Índice)
 * 0.2.1
     * CHANGE: Update docs (module code remains unchanged)
 * 0.2.0
@@ -80,7 +80,7 @@ npm test
     * Work in progress
 
 ## Meta
-[(Back to top)](#table-of-contents)
+[(Back to top)](#Índice)
 Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
 
 Distributed under the XYZ license. See ``LICENSE`` for more information.
@@ -88,7 +88,7 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 [https://github.com/yourname/github-link](https://github.com/dbader/)
 
 ## Contributing
-[(Back to top)](#table-of-contents)
+[(Back to top)](#Índice)
 1. Fork it (<https://github.com/yourname/yourproject/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
