@@ -15,7 +15,7 @@
 - [License](#license)
 
 ## 🧰 Funcionalidades específicas
-
+[(Back to top)](#table-of-contents)
 - Criação, listagem, atualização e exclusão de tarefas com os seguintes campos: título, descrição, data de vencimento.
 - Conclusão de uma tarefa salvando a data/hora do encerramento.
 - Registro das horas trabalhadas em uma tarefa, incluindo a data de realização, quantidade de horas e um comentário. 
@@ -23,13 +23,13 @@
 - Geração de gráfico exibindo a quantidade de tarefas concluídas por dia.
 
 ## 🚀Tecnologias empregadas
-
+[(Back to top)](#table-of-contents)
 -  [NestJS](https://nestjs.com/) - Na construção na API REST.
 - [TypeORM](https://typeorm.io/) - Na integração com banco de dados PostgreSQL.
 - [Angular14](https://angular.io/) e [Angular Material](https://material.angular.io/) - Na construção da interface de usuário.
 
 ## ♟️ Instalação
-
+[(Back to top)](#table-of-contents)
 OS X & Linux:
 
 ```sh
@@ -43,7 +43,7 @@ edit autoexec.bat
 ```
 
 ## 💡 Exemplo de uso
-
+[(Back to top)](#table-of-contents)
 A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
 
 _For more examples and usage, please refer to the [Wiki][wiki]._
@@ -55,7 +55,7 @@ _For more examples and usage, please refer to the [Wiki][wiki]._
 </picture>
 
 ## Development setup
-
+[(Back to top)](#table-of-contents)
 Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
 
 ```sh
@@ -64,7 +64,7 @@ npm test
 ```
 
 ## Release History
-
+[(Back to top)](#table-of-contents)
 * 0.2.1
     * CHANGE: Update docs (module code remains unchanged)
 * 0.2.0
@@ -79,7 +79,7 @@ npm test
     * Work in progress
 
 ## Meta
-
+[(Back to top)](#table-of-contents)
 Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
 
 Distributed under the XYZ license. See ``LICENSE`` for more information.
