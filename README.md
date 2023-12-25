@@ -5,14 +5,15 @@
 
  ## Table of contents
 
-- [Funcionalidades especificas](##funcionalidades-específicas)
+- [Funcionalidades especificas](#funcionalidades-específicas)
+- [Tecnologias empregadas](#tecnologias-empregadas)
 - [Instalação](#instalação)
-- [Recommended configurations](#recommended-configurations)
-- [Custom configurations](#custom-configurations)
-- [Updating](#updating)
-- [Uninstallation](#uninstallation)
+- [Exemplo de Uso](#exemplo-de-uso)
+- [Development Setup](#development-setup)
+- [Release History](#release-history)
+- [Meta](#meta)
 - [Contributing](#contributing)
-- [License](#license)
+  
 
 ## 🧰 Funcionalidades específicas
 [(Back to top)](#table-of-contents)
