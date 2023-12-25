@@ -57,7 +57,7 @@ _For more examples and usage, please refer to the [Wiki][wiki]._
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
 
-## Development setup
+## ⚙️Development setup
 [[(Back to top)](#Índice)
 
 Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
@@ -67,7 +67,7 @@ make install
 npm test
 ```
 
-## Release History
+## 🏁Release History
 [(Back to top)](#Índice)
 * 0.2.1
     * CHANGE: Update docs (module code remains unchanged)
@@ -82,7 +82,7 @@ npm test
 * 0.0.1
     * Work in progress
 
-## Meta
+## 💁Meta
 [(Back to top)](#Índice)
 
 Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
