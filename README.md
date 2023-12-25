@@ -6,7 +6,7 @@
  # Table of contents
 
 - [Funcionalidades especificas](#funcionalidades-específicas)
-- [Instalação](#instalacao)
+- [Instalação](#instalação)
 - [Recommended configurations](#recommended-configurations)
 - [Custom configurations](#custom-configurations)
 - [Updating](#updating)
