@@ -5,6 +5,7 @@
 
  ## Table of contents
 
+- [Funcionalidades especificas](#funcionalidades-especificas)
 - [Funcionalidades específicas](#funcionalidades-específicas)
 - [Tecnologias empregadas](#tecnologias-empregadas)
 - [Instalação](#instalação)
@@ -15,7 +16,7 @@
 - [Contributing](#contributing)
   
 
-## 🧰 Funcionalidades específicas
+## 🧰 Funcionalidades especificas
 [(Back to top)](#table-of-contents)
 - Criação, listagem, atualização e exclusão de tarefas com os seguintes campos: título, descrição, data de vencimento.
 - Conclusão de uma tarefa salvando a data/hora do encerramento.
