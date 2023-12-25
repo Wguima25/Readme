@@ -16,7 +16,7 @@
 - [Contributing](#contributing)
   
 
-## 🧰 Funcionalidades especificas
+## 🧰Funcionalidades especificas
 [(Back to top)](#table-of-contents)
 - Criação, listagem, atualização e exclusão de tarefas com os seguintes campos: título, descrição, data de vencimento.
 - Conclusão de uma tarefa salvando a data/hora do encerramento.
