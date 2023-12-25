@@ -5,7 +5,7 @@
 
  ## Table of contents
 
--[Funcionalidades específicas](#funcionalidades-específicas)
+- [Funcionalidades específicas](#funcionalidades-específicas)
 - [Tecnologias empregadas](#tecnologias-empregadas)
 - [Instalação](#instalação)
 - [Exemplo de Uso](#exemplo-de-uso)
