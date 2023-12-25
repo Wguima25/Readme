@@ -29,7 +29,7 @@
 - [TypeORM](https://typeorm.io/) - Na integração com banco de dados PostgreSQL.
 - [Angular14](https://angular.io/) e [Angular Material](https://material.angular.io/) - Na construção da interface de usuário.
 
-## ♟️ Instalação
+## ♟Instalação
 [(Back to top)](#table-of-contents)
 OS X & Linux:
 
@@ -43,7 +43,7 @@ Windows:
 edit autoexec.bat
 ```
 
-## 💡 Exemplo de uso
+## 💡Exemplo de uso
 [(Back to top)](#table-of-contents)
 A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
 
