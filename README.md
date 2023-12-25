@@ -5,7 +5,7 @@
 
  # Table of contents
 
-- [Funcionalidades especificas](#🧰funcionalidades-específicas)
+- [Funcionalidades especificas](#funcionalidades-específicas)
 - [Instalação](#instalação)
 - [Recommended configurations](#recommended-configurations)
 - [Custom configurations](#custom-configurations)
