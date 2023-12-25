@@ -3,9 +3,9 @@
 > 
  ![image](https://user-images.githubusercontent.com/17109060/32149040-04f3125c-bd25-11e7-8003-66fd29bc18d4.png)
 
- # Table of contents
+ ## Table of contents
 
-- [Funcionalidades especificas](#funcionalidades-específicas)
+- [Funcionalidades especificas](funcionalidades-específicas)
 - [Instalação](#instalação)
 - [Recommended configurations](#recommended-configurations)
 - [Custom configurations](#custom-configurations)
