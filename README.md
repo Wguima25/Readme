@@ -2,7 +2,7 @@
 > Este aplicativo de gerenciamento de tarefas permite aos usuários criar e gerenciar tarefas e registrar logs de horas trabalhadas.
 > 
  ![image](https://user-images.githubusercontent.com/17109060/32149040-04f3125c-bd25-11e7-8003-66fd29bc18d4.png)
-⬜
+
 ## 📑 Índice
 
 - [Funcionalidades específicas](#funcionalidades-específicas)
